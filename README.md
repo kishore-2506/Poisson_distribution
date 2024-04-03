@@ -69,9 +69,7 @@ else:
  
 # Output : 
 
-
-
-
+![image](https://github.com/kishore-2506/Poisson_distribution/assets/165657398/a50d7605-75e0-44c9-af77-561a6324f165)
 
 # Results
 
